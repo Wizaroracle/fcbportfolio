@@ -1,0 +1,31 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,p {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+body{
+    background-color: #035519;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23035519' cx='50' cy='0' r='50'/%3E%3Cg fill='%23065d1e' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%23096424' cx='50' cy='100' r='50'/%3E%3Cg fill='%230c6c29' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%230f742f' cx='50' cy='200' r='50'/%3E%3Cg fill='%23127c34' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%2315843a' cx='50' cy='300' r='50'/%3E%3Cg fill='%23178c40' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%23199546' cx='50' cy='400' r='50'/%3E%3Cg fill='%231b9d4c' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%231da653' cx='50' cy='500' r='50'/%3E%3Cg fill='%231eae59' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%2320b760' cx='50' cy='600' r='50'/%3E%3Cg fill='%2321c066' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%2321c86d' cx='50' cy='700' r='50'/%3E%3Cg fill='%2321d174' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%2321da7b' cx='50' cy='800' r='50'/%3E%3Cg fill='%2321e383' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%2320ed8a' cx='50' cy='900' r='50'/%3E%3Cg fill='%231ef691' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%231BFF99' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+#profile{
+           
+height: 470px;
+width: 370px;
+
+}
+
+#landing{
+
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
